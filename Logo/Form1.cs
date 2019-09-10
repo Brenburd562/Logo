@@ -44,7 +44,7 @@ namespace Logo
             G.FillPie(drawbrush2, 20, 20, 50, 50, 120, 360);
             G.FillPie(drawbrush2, 75, 70, 50, 50, 120, 360);
             //right image dot
-            G.FillPie(drawbrush2, 202, 45, 50, 50, 120, 360);//
+            G.FillPie(drawbrush2, 202, 45, 50, 50, 120, 360);
             //large blue bottom image 
             G.FillRectangle(drawbrush, 0, 160, 300, 130);
             G.FillRectangle(drawbrush, 10, 150, 280, 150);
